@@ -1,0 +1,19 @@
+.note{
+    font-size:15px;
+    color:black;
+}
+
+.AI_MUSIC_WEB_APP{
+    width:100%;
+    font-size:23px;
+    margin:0px;
+}
+
+canvas{
+    border-radius: 20px;
+    border:5px solid royalblue;
+}
+
+#Sn{
+    font-size:20;
+}
